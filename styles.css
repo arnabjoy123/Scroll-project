@@ -110,7 +110,7 @@ a{
     background-image: url("depositphotos_115816316-stock-photo-green-hills-in-tuscany.jpg");
     background-size: cover;
     height: 100vh;
-    border: 10px solid red;
+
 }
 
 #content-area{
@@ -120,12 +120,12 @@ a{
     /* justify-content: center; */
 
     align-items: center;
-    border: 10px solid rgb(0, 179, 42);
+
     height: 80%;
 }
 
 h1{
-    border: 2px solid purple;
+
     font-size: 30px;
 
     scroll-behavior: smooth;
@@ -146,7 +146,7 @@ h2{
     margin-top: 0px;
     max-width: 100%;
     text-align: center;
-    border: 2px solid red;
+
     margin-bottom: 5px;
 
     font-family: "RocknRoll One", sans-serif;
@@ -165,7 +165,7 @@ h2{
     padding-top: 20px;
     text-align: center;
     height: 100vh;
-    border: 10px solid rgb(66, 43, 171);
+
 }
 
 #services{
@@ -185,7 +185,7 @@ h2{
 
 
     p{
-        border: 2px solid rgb(237, 0, 0);
+
         margin: 20px;
         margin-bottom: 10px;
         font-size: larger;
@@ -216,7 +216,7 @@ h2{
         flex-direction: column;
         padding: 15px 30px;
         background-color: antiquewhite;
-        border: 5px solid rgb(255, 174, 0);
+
     }
 
     .fixed-nav {
@@ -254,7 +254,6 @@ h2{
 
 
     .show-links{
-        border: 12px solid rgb(102, 23, 237);
         display: flex;
         flex-direction: column;
     }
