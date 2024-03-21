@@ -246,7 +246,6 @@ h2{
     }
 
     .links{
-        border: 12px solid yellowgreen;
         display: none;
         overflow: hidden;
         transition: all 2s ease-out;
